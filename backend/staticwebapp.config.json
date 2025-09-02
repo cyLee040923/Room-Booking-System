@@ -1,0 +1,14 @@
+{
+    "navigationFallback": {
+        "rewrite": "index.html"
+    },
+    "mimeTypes": {
+        ".json": "text/json"
+    },
+    "routes": [
+    {
+      "route": "/api/*",
+      "rewrite": "https://roombookingsystem-etc7bfeeg8hndfbc.eastasia-01.azurewebsites.net/"
+    }
+  ]
+}

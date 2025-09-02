@@ -1,0 +1,30 @@
+Account:
+	1.user 
+	amy@mail.com
+	123456a
+
+	testing@mail.com
+	12345678
+
+	kuju@mail.com
+	123456
+
+	2.
+	abc@mail.com
+	123456abc
+
+
+	PayPal Account:
+	1.
+	sb-lsrgv38751009@personal.example.com
+	Tk)-7vKr
+
+
+	2.
+	sb-uoswu38730731@business.example.com
+	6{kNa<Lu
+
+
+	PayPal developer account:
+	comp04117@gmail.com 
+	Comp4117project!
