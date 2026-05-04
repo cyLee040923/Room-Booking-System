@@ -19,6 +19,6 @@ Example (repository-relative Markdown links):
 
 ![Payment page](images/payment-page.png)
 
-![Bookings Details page](images/bookings-details.png)
+![Bookings Details page](images/booking-details.png)
 
 ![My Bookings page](images/my-bookings.png)
