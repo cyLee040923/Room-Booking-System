@@ -11,11 +11,11 @@ Example (repository-relative Markdown links):
 
 ![Bookings page](images/bookings-page1.png)
 
-![Bookings page](images/bookings2-page2.png)
+![Bookings page](images/bookings-page2.png)
 
-![Bookings page](images/bookings3-page3.png)
+![Bookings page](images/bookings-page3.png)
 
-![Bookings page](images/bookings4-page4.png)
+![Bookings page](images/bookings-page4.png)
 
 ![Payment page](images/payment-page.png)
 
